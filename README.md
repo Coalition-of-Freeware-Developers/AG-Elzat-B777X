@@ -1,16 +1,14 @@
 # Important Notice:
-This repository is a storage for the work progress of the B777X project by Elzat Vortex.
-It is not being actively worked on at the moment.
-
-If you want to contribute to this project, please message the AeroGenesis team.
+This collaboration has ended and therefore this repo will no longer be active. 
+Please consult @elzat231 for further information on this project.
 
 ---
 
 <div align="center">
   <ul>
-    <a style="text-align: center, font-style: bold">Copyright © 2025 Coalition of Freeware Developers</a>
+    <a style="text-align: center, font-style: bold">Copyright © 2026 Coalition of Freeware Developers</a>
     <a style="text-align: center, font-style: bold, padding: 12">&ensp;&#10072;&ensp;</a>
-    <a style="text-align: center, font-style: bold">Copyright © 2025 AeroGenesis</a>
+    <a style="text-align: center, font-style: bold">Copyright © 2026 AeroGenesis</a>
     <a style="text-align: center, font-style: bold, padding: 12">&ensp;&#10072;&ensp;</a>
     <a style="text-align: center, font-style: bold">All Rights Reserved</a>
     <a style="text-align: center, font-style: bold, padding: 12">&ensp;&#10072;&ensp;</a>
